@@ -1,3 +1,3 @@
-# Day 8: 100 Days of Code
+# Day 9: 100 Days of Code
 
 Daily challenge code and notes.
