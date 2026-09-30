@@ -1,3 +1,3 @@
-# Day 47: 100 Days of Code
+# Day 48: 100 Days of Code
 
 Daily challenge code and notes.
