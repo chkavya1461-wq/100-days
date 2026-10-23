@@ -1,3 +1,3 @@
-# Day 70: 100 Days of Code
+# Day 71: 100 Days of Code
 
 Daily challenge code and notes.
