@@ -1,3 +1,3 @@
-# Day 86: 100 Days of Code
+# Day 87: 100 Days of Code
 
 Daily challenge code and notes.
