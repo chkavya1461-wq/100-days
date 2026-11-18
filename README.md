@@ -1,32 +1,32 @@
-# Day 96: Enum 🧱
+# Day 97: Enum 🧱
 
 ## 📌 Overview
-- **Day:** 96 / 100
+- **Day:** 97 / 100
 - **Topic:** Enum 🧱
-- **Problems Covered:** Problem 146
+- **Problems Covered:** Problem 147
 
 ---
 
-## 📝 Problem 146
+## 📝 Problem 147
 
 ### Problem Statement
-Create Employee structure with nested Date structure for joining date and print details.
+Store employee data in a binary file using fwrite() and read using fread().
 
 ### Test Cases
 
 #### Case 1
-- **Input:** `Employee: Raj | ID: 11 | Joining Date: 12 05 2020`
-- **Output:** `Name: Raj | ID: 11 | Joining Date: 12/05/2020`
-- **Explanation:** Nested structure Date is used inside Employee structure to represent joining date.
+- **Input:** `Employee details entered and stored in file.`
+- **Output:** `Displays employee data read from file.`
+- **Explanation:** Demonstrates writing and reading structures using binary file handling functions.
 
 ---
 
 ## 💻 Solutions & Code
-- [`ENUM16.c`](./ENUM16.c)
+*No solution files available yet.*
 
 ---
 
 ## 🧭 Navigation
-- [⬅️ Previous: Day 95](../day_95/README.md)
-- [➡️ Next: Day 97](../day_97/README.md)
+- [⬅️ Previous: Day 96](../day_96/README.md)
+- [➡️ Next: Day 98](../day_98/README.md)
 
