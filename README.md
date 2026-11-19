@@ -1,23 +1,27 @@
-# Day 97: Enum 🧱
+# Day 98: Enum 🧱
 
 ## 📌 Overview
-- **Day:** 97 / 100
+- **Day:** 98 / 100
 - **Topic:** Enum 🧱
-- **Problems Covered:** Problem 147
+- **Problems Covered:** Problem 148
 
 ---
 
-## 📝 Problem 147
+## 📝 Problem 148
 
 ### Problem Statement
-Store employee data in a binary file using fwrite() and read using fread().
+Take two structs as input and check if they are identical.
 
 ### Test Cases
 
 #### Case 1
-- **Input:** `Employee details entered and stored in file.`
-- **Output:** `Displays employee data read from file.`
-- **Explanation:** Demonstrates writing and reading structures using binary file handling functions.
+- **Input:**
+  ```text
+Student1: Asha 101 90
+Student2: Asha 101 90
+  ```
+- **Output:** `Same`
+- **Explanation:** Compares all structure members and prints 'Same' if identical.
 
 ---
 
@@ -27,6 +31,6 @@ Store employee data in a binary file using fwrite() and read using fread().
 ---
 
 ## 🧭 Navigation
-- [⬅️ Previous: Day 96](../day_96/README.md)
-- [➡️ Next: Day 98](../day_98/README.md)
+- [⬅️ Previous: Day 97](../day_97/README.md)
+- [➡️ Next: Day 99](../day_99/README.md)
 
