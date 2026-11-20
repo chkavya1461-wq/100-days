@@ -1,27 +1,23 @@
-# Day 98: Enum 🧱
+# Day 99: Enum 🧱
 
 ## 📌 Overview
-- **Day:** 98 / 100
+- **Day:** 99 / 100
 - **Topic:** Enum 🧱
-- **Problems Covered:** Problem 148
+- **Problems Covered:** Problem 149
 
 ---
 
-## 📝 Problem 148
+## 📝 Problem 149
 
 ### Problem Statement
-Take two structs as input and check if they are identical.
+Use malloc() to allocate structure memory dynamically and print details.
 
 ### Test Cases
 
 #### Case 1
-- **Input:**
-  ```text
-Student1: Asha 101 90
-Student2: Asha 101 90
-  ```
-- **Output:** `Same`
-- **Explanation:** Compares all structure members and prints 'Same' if identical.
+- **Input:** `Student allocated dynamically with details: Tina 105 88`
+- **Output:** `Name: Tina | Roll: 105 | Marks: 88`
+- **Explanation:** Memory for structure is dynamically allocated on heap using malloc().
 
 ---
 
@@ -31,6 +27,6 @@ Student2: Asha 101 90
 ---
 
 ## 🧭 Navigation
-- [⬅️ Previous: Day 97](../day_97/README.md)
-- [➡️ Next: Day 99](../day_99/README.md)
+- [⬅️ Previous: Day 98](../day_98/README.md)
+- [➡️ Next: Day 100](../day_100/README.md)
 
